@@ -146,6 +146,10 @@ h4 {
 	padding: 25px;
 }
 
+pre {
+
+}
+
 span {
 	color: orange;
 	font-weight: bold;
@@ -183,7 +187,6 @@ textarea {
 	margin-left: 30px;
 	border-spacing: 10px;
 	border-left: 2px solid gray;
-	float: left;
 
 }
 
